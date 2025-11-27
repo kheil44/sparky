@@ -952,6 +952,20 @@ These formulas apply to simple and complex machines to analyze energy transfer a
 [9](https://library.fiveable.me/hs-physical-science/unit-9/work-simple-machines/study-guide/51M4YkKuzVMi86Px)
 [10](https://bodell.mtchs.org/Physics/Sem1-Notes/CH9-SimpleMachines-Physics.pdf)
 
+
+\[
+W = F \times d \times \cos(\theta)
+\]
+
+\[
+W = F \times d \quad \text{(when } \theta = 0^\circ \text{)}
+\]
+
+\[
+P = \frac{W}{t} = F \times v
+\]
+
+
 ---
 
 
