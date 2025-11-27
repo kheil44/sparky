@@ -953,21 +953,52 @@ These formulas apply to simple and complex machines to analyze energy transfer a
 [10](https://bodell.mtchs.org/Physics/Sem1-Notes/CH9-SimpleMachines-Physics.pdf)
 
 
-\[
-W = F \times d \times \cos(\theta)
-\]
-
-\[
-W = F \times d \quad \text{(when } \theta = 0^\circ \text{)}
-\]
-
-\[
-P = \frac{W}{t} = F \times v
-\]
 
 
 ---
 
+To calculate the efficiency of a machine, the basic formula is:
+
+\[
+\text{Efficiency} = \frac{\text{Useful output energy (or work or power)}}{\text{Total input energy (or work or power)}} \times 100\%
+\]
+
+In symbols:
+
+\[
+\eta = \frac{E_{output}}{E_{input}} \times 100\%
+\]
+
+Where:  
+- \(\eta\) = efficiency (percentage)  
+- \(E_{output}\) = useful energy output (or work done by machine)  
+- \(E_{input}\) = total energy input (or work done on machine)
+
+Because some energy is always lost (e.g. due to friction or heat), efficiency is always less than 100%.
+
+Example:  
+If a machine takes 100 J of input energy and delivers 80 J of useful work, its efficiency is:
+
+\[
+\eta = \frac{80}{100} \times 100\% = 80\%
+\]
+
+This means the machine converts 80% of input energy into useful work.
+
+Efficiency can also be calculated using power or work values in similar ratio form.
+
+This formula helps assess how well a machine converts input into useful output, and how much energy is lost in the process.
+
+[1](https://www.indmallautomation.com/how-to-calculate-machine-efficiency/)
+[2](https://limblecmms.com/learn/metrics/machine-efficiency/)
+[3](https://www.tutorchase.com/answers/ib/physics/how-do-you-determine-the-efficiency-of-a-machine)
+[4](https://www.omnicalculator.com/physics/efficiency)
+[5](https://van.physics.illinois.edu/ask/listing/354)
+[6](https://scw.ai/blog/oee-calculation/)
+[7](https://www.youtube.com/watch?v=Ab9CexEFwSY)
+[8](https://www.worximity.com/blog/calculate-production-machine-efficiency-using-digital-factory-technology)
+[9](https://www.oee.com/calculating-oee/)
+[10](https://www.youtube.com/watch?v=H0_84-UHfYw)
 
 ---
 
