@@ -1,0 +1,51 @@
+They're not actually different formulas—they describe **different aspects** of what current is.[1][2]
+
+## What Current Actually Is
+
+Current \(I\) is the rate at which electric charge flows, so \(I = \frac{Q}{t}\) is the **definition** of current: charge \(Q\) (in coulombs) passing a point per unit time \(t\) (in seconds).[11][12]
+
+## Ohm's Law
+
+The formula \(I = \frac{V}{R}\) comes from Ohm's law, which describes the **relationship** between current, voltage, and resistance in a circuit. It tells you how much current will flow when you apply a voltage across a resistance. This happens because the voltage creates an electric field that causes electrons to drift through the conductor, colliding with atoms and losing energy as heat.[2][7][1]
+
+## Why Both Matter
+
+- Use \(I = \frac{Q}{t}\) when you're thinking about **how much charge** is moving (e.g., in electroplating, battery discharge)
+- Use \(I = \frac{V}{R}\) when you're **designing or troubleshooting circuits**—working out what current will flow for a given supply voltage and load resistance[6][7]
+
+As an electrician, you'll use \(I = \frac{V}{R}\) constantly for calculating circuit currents, cable sizing, and checking if protective devices are correctly rated.
+
+[1](https://www.nde-ed.org/Physics/Electricity/ohmslaw.xhtml)
+[2](https://en.wikipedia.org/wiki/Ohm's_law)
+[3](https://byjus.com/physics/ohms-law/)
+[4](https://www.youtube.com/watch?v=KMaQYdTJul0)
+[5](https://www.calculator.net/ohms-law-calculator.html)
+[6](https://www.fluke.com/en-us/learn/blog/electrical/what-is-ohms-law)
+[7](https://www.fluke.com/en-gb/learn/blog/electrical/what-is-ohms-law)
+[8](https://www.build-electronic-circuits.com/ohms-law/)
+[9](https://www.elliottelectric.com/StaticPages/ElectricalReferences/Calculations/Ohms_Law_Calculating.aspx)
+[10](https://www.electronics-tutorials.ws/dccircuits/dcp_2.html)
+[11](https://studymind.co.uk/notes/charge-flow-calculations/)
+[12](https://www.bbc.co.uk/bitesize/guides/ztf74qt/revision/1)
+
+The main formula electricians use for current is from Ohm’s law:  
+\(\displaystyle I = \frac{V}{R}\)[5][7]
+
+- \(I\) = current in amperes (A)  
+- \(V\) = voltage in volts (V)  
+- \(R\) = resistance in ohms \(\Omega\)[7][5]
+
+Another useful relationship is with charge and time:  
+\(\displaystyle I = \frac{Q}{t}\) where \(Q\) is charge in coulombs (C) and \(t\) is time in seconds (s).[3][6]
+
+[1](https://www.ledkia.com/blog/uk/what-is-electrical-power-and-how-is-it-calculated/)
+[2](https://www.rhopointcomponents.com/resources/engineering-calculators/ohms-law-calculator/)
+[3](https://studymind.co.uk/notes/charge-flow-calculations/)
+[4](https://uk.rs-online.com/web/content/discovery/tools-and-calculators/ohms-law-calculator)
+[5](https://www.bosstab.com/uk/resources/power-guides/calculators/ohms-law)
+[6](https://www.bbc.co.uk/bitesize/guides/ztf74qt/revision/1)
+[7](https://www.bbc.co.uk/bitesize/guides/z4dxwnb/revision/2)
+[8](https://www.electricalsafetyfirst.org.uk/watts-to-amps-calculator/)
+[9](https://www.atlascopco.com/en-uk/compressors/wiki/compressed-air-articles/ohm-laws)
+[10](https://www.chemguide.co.uk/inorganic/electrolysis/basiccalcs.html)
+
